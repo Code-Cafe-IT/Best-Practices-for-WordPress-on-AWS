@@ -1,0 +1,9 @@
+variable "vpc_cidr" {}
+variable "project_name" {}
+variable "ami_wordpress" {}
+variable "load_balancers" {}
+variable "tf_sg_basionhost" {}
+variable "public_subnet_1a" {}
+variable "load_balancers_arn" {}
+variable "private_subnet_1a_app" {}
+variable "private_subnet_1b_app" {}
